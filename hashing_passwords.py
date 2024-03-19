@@ -15,6 +15,8 @@ def hash_password(password):
     
     return hashed_password
 
+
+
 # Example usage
 password = "my_secure_password"
 hashed_password = hash_password(password)
